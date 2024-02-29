@@ -1,4 +1,3 @@
-![MasterHead](https://i.pinimg.com/originals/1a/71/58/1a7158689e5ce37e5d78d97c332a003f.gif)
 <h1 align="center">Hi 👋, I'm Zuha Sohail</h1>
 <h3 align="center">A Software Engineer & a passionate Web developer</h3>
 <img align="right" alt="Coding" src="https://i.pinimg.com/originals/84/88/9a/84889ad9e996c2c74ffdf33e73378c66.gif">
