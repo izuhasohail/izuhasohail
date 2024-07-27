@@ -3,8 +3,12 @@
 <img align="right" alt="Coding" src="https://i.pinimg.com/originals/84/88/9a/84889ad9e996c2c74ffdf33e73378c66.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izuhasohail&label=Profile%20views&color=0e75b6&style=flat" alt="izuhasohail" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izuhasohail" alt="izuhasohail" /></a> </p>
 - 👯 I’m looking to collaborate on **ReactJs and MERN Stack projects**
+
 - 🌱 I’m currently learning **NestJs, React Native & Machine Learning**
+- 
 - 💬 Ask me about **MERN stack**
 
 <h3 align="left">Connect with me:</h3>
