@@ -10,7 +10,7 @@
   
 - 💬 Ask me about **MERN stack**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izuhasohail" alt="izuhasohail" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izuhasohail&theme=onedark" alt="izuhasohail" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
