@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **ReactJs and MERN Stack projects**
 
-- 🌱 I’m currently learning **NestJs, React Native & Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**
   
 - 💬 Ask me about **MERN stack**
 
