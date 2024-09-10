@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izuhasohail&label=Profile%20views&color=0e75b6&style=flat" alt="izuhasohail" /> </p>
 
-- 👯 I’m looking to collaborate on **ReactJs and MERN Stack projects**
+- 👯 I’m looking to collaborate on **NextJs and MERN Stack projects**
 
 - 🌱 I’m currently learning **Machine Learning**
   
