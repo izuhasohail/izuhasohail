@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zuha Sohail</h1>
-<h3 align="center">A Software Engineer & a passionate Web developer</h3>
+<h3 align="center">A Software Engineer & a passionate AI/ML Anthusiast</h3>
 <img align="right" alt="Coding" src="https://i.pinimg.com/originals/84/88/9a/84889ad9e996c2c74ffdf33e73378c66.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izuhasohail&label=Profile%20views&color=0e75b6&style=flat" alt="izuhasohail" /> </p>
